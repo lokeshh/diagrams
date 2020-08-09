@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-09T07:07:03.851Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="fEZTWV1TGiFkz1OVgO4C" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-09T08:04:56.169Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="X_FfSUX46aL9onSVHOQh" version="13.6.2" type="github">
   <diagram id="3RQ_4SfvxZ3onNkC_7KM" name="Page-1">
     <mxGraphModel dx="868" dy="445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,6 +20,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="4zVBOJ4C8sZJvGzY4dzO-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="4zVBOJ4C8sZJvGzY4dzO-1" target="4zVBOJ4C8sZJvGzY4dzO-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4zVBOJ4C8sZJvGzY4dzO-1" value="Server 1" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="610" y="150" width="80" height="80" as="geometry" />
         </mxCell>
@@ -29,6 +32,9 @@
               <mxPoint x="650" y="359" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4zVBOJ4C8sZJvGzY4dzO-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="4zVBOJ4C8sZJvGzY4dzO-2" target="4zVBOJ4C8sZJvGzY4dzO-34">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4zVBOJ4C8sZJvGzY4dzO-2" value="Server 2" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="610" y="260" width="80" height="80" as="geometry" />
@@ -98,6 +104,9 @@
         </mxCell>
         <mxCell id="4zVBOJ4C8sZJvGzY4dzO-21" value="Device 2 queue" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="325.87" y="188" width="98.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4zVBOJ4C8sZJvGzY4dzO-34" value="NoSQL DB" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="750" y="200" width="80" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
