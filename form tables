@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-09T06:09:47.981Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="KuV9_y0zh3NEM-Le1MIu" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-09T08:04:45.381Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="NEdS1gFY-diV4ZDSF5zA" version="13.6.2" type="github">
   <diagram id="_6_WuCYp_i6MCRs4onlr" name="Page-1">
     <mxGraphModel dx="868" dy="445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,7 +30,7 @@
             <mxRectangle x="510" y="90" width="110" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zJ4-fnYov_HtWpEyGozF-8" value="+Keyword&#xa;+Name&#xa;+Type&#xa;+Description&#xa;+Creation Date&#xa;+Is Active" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="zJ4-fnYov_HtWpEyGozF-7">
+        <mxCell id="zJ4-fnYov_HtWpEyGozF-8" value="+Keyword&#xa;+Name&#xa;+Type&#xa;+Description&#xa;+Creation Date&#xa;+Is Active&#xa;+Is Mandatory" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="zJ4-fnYov_HtWpEyGozF-7">
           <mxGeometry y="30" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="zJ4-fnYov_HtWpEyGozF-11" value="Rule" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" collapsed="1" parent="1">
